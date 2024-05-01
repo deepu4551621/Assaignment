@@ -1,8 +1,9 @@
-<!--  IMPORTANT NOTES #for recruter
---icons needs a little configuration to be visible
---flatlist shows data/images show #slow loading images
---install node_module first #npm install 
- -->
+## step 0: Important Notes
+  IMPORTANT NOTES #for recruter
+1 icons needs a little configuration to be visible
+2 flatlist shows data/images show #slow loading images
+3 install node_module first #npm install 
+ 
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -77,5 +78,6 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+# Assaignment
 # Assaignment
 # Assaignment
