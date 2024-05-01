@@ -1,9 +1,8 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
-# Getting Started
-
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
+<!--  IMPORTANT NOTES #for recruter
+--icons needs a little configuration to be visible
+--flatlist shows data/images show #slow loading images
+--install node_module first #npm install 
+ -->
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -17,6 +16,7 @@ npm start
 # OR using Yarn
 yarn start
 ```
+<!-- first start emulator then start metro bundler if normal way do not work -->
 
 ## Step 2: Start your Application
 
